@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Como recién licenciado en el grado en Estadística y Empresa de la Universidad Carlos III de Madrid y con gran pasión por el mundo del Data Science,tengo una gran motivación por potenciar mis aptitudes en el análisis de datos mientras que desarrollo otras nuevas con el principal objetivo de poder llegar a ser un gran profesional.
+Como recién licenciado en Estadística y Empresa por la Universidad Carlos III de Madrid y apasionado por el Data Science, estoy entusiasmado por mejorar mis habilidades en el análisis de datos mientras desarrollo nuevas competencias para crecer profesionalmente. Me caracterizo por mi curiosidad constante y mi deseo continuo de aprender.
 
 ## Habilidades
 
