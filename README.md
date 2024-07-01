@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Como recién licenciado en el grado en Estadística y Empresa de la Universidad Carlos III de Madrid, tengo una gran pasión por el mundo del Data Science y las Finanzas. Estoy motivado por potenciar mis aptitudes y desarrollar otras nuevas. Me considero alguien con buenas capacidades comunicativas y de trabajo en equipo, pero sobre todo, con una gran inquietud por aprender.
+Como recién licenciado en el grado en Estadística y Empresa de la Universidad Carlos III de Madrid y con gran pasión por el mundo del Data Science,tengo una gran motivación por potenciar mis aptitudes en el análisis de datos mientras que desarrollo otras nuevas con el principal objetivo de poder llegar a ser un gran profesional.
 
 ## Habilidades
 
